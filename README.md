@@ -1,6 +1,6 @@
 # Softbank ISP Blocking Vercel.com - Debug Repository
 
-This repository contains debugging tools and documentation for the Softbank Japan ISP blocking Vercel.com issue discovered in December 2024.
+This repository contains debugging tools and documentation for the Softbank Japan ISP blocking Vercel.com issue discovered in December 2025.
 
 ## 🚨 Issue Summary
 
@@ -94,7 +94,7 @@ See [softbank-call-script.md](softbank-call-script.md) for complete Japanese cal
 - Same IPs accessible from non-Softbank networks
 
 ### Timeline
-- **Discovered**: December 2024
+- **Discovered**: December 2025
 - **Scope**: Affects multiple Vercel IP ranges
 - **ISP**: Softbank Corp (AS17676)
 
@@ -144,7 +144,7 @@ This repository is for educational and debugging purposes. The information is pr
 
 ---
 
-**Last Updated**: December 8, 2024
+**Last Updated**: December 7, 2025
 **Status**: Active Issue
 **ISP**: Softbank Japan
 **Affected Service**: Vercel.com and hosted applications

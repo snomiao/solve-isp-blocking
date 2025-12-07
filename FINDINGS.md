@@ -4,7 +4,7 @@ Detailed technical analysis of the Softbank ISP blocking Vercel.com issue.
 
 ## 🔍 Discovery Timeline
 
-**Date Discovered**: December 8, 2024
+**Date Discovered**: December 7, 2025
 **Reporter**: User on Softbank network in Tokyo, Japan
 **Initial Symptom**: Cannot access vercel.com and Vercel-hosted sites
 
@@ -195,5 +195,5 @@ Need confirmation, but expected to work normally.
 ---
 
 **Status**: Active investigation
-**Last Updated**: December 8, 2024
+**Last Updated**: December 7, 2025
 **Confidence Level**: High (multiple confirmatory tests)
